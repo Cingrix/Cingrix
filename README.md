@@ -39,4 +39,4 @@
 <!-- Projects -->
 ## 🚀 My Projects
 - 🧠[Defect detection in industrial pipes](https://github.com/Cingrix/defect_detection_Industrial_pipes.git)
--    [E-Commerce Graph Analysis](https://github.com/biswadeep-xyz/ecommerce-graph)
+- 🔍[E-Commerce Graph Analysis](https://github.com/biswadeep-xyz/ecommerce-graph)
