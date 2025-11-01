@@ -36,6 +36,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debanganghosh08/debanganghosh08/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debanganghosh08/debanganghosh08/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/debanganghosh08/debanganghosh08/output/github-snake.svg" />
+</picture>
+
+---
+
 <!-- Projects -->
 ## 🚀 My Projects
 - 🧠[Defect detection in industrial pipes](https://github.com/Cingrix/defect_detection_Industrial_pipes.git)
