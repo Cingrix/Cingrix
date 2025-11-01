@@ -66,5 +66,7 @@
 
 <!-- Projects -->
 ## 🚀 My Projects
+- 🔬[Pathshala AI](https://github.com/Cingrix/Pathshala-AI)
 - 🧠[Defect detection in industrial pipes](https://github.com/Cingrix/defect_detection_Industrial_pipes.git)
 - 🔍[E-Commerce Graph Analysis](https://github.com/biswadeep-xyz/ecommerce-graph)
+- 🎓[Also check out my portfolio website](https://github.com/Cingrix/Biswadeep-portfolio)
